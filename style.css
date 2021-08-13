@@ -1,0 +1,16 @@
+    .story{
+        font-size:100px;
+        color:aqua;
+    }
+
+
+    #food{
+        color:red;
+    }
+
+
+body{background-color: white;}
+
+    p{
+    text-decoration:underline;
+    }

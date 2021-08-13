@@ -1,0 +1,30 @@
+{
+    padding:"0"
+    margin:"0"
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgray;
+}
+
+form{
+    background-color: white;
+    width:40%;
+    margin:auto;
+    margin:40px;
+}
+
+formtitle{
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: black;
+    font-size: 24px;
+}
+
+.description{
+    font-size: 14px;
+    color: black;
+    text-align: center;
+}

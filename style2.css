@@ -1,0 +1,25 @@
+.food{
+    font-size:50px;
+    color: seashell;
+}
+#fish{
+    color: rebeccapurple;
+}
+.people{
+    font-size: 100px;
+    color: magenta;
+}
+#things{
+    color: gold;
+}
+.steps{
+    font-size: 70px;
+    color: lightcoral;
+}
+#tomato{
+    font-size: 30px;
+    color: mediumspringgreen;
+}
+
+body{background-color: orangered;}
+
