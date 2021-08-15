@@ -1,5 +1,5 @@
 body{
-    background-image
+    background-color: #32174d;
     
 }
 h1{font-family: sans-serif;}
@@ -11,8 +11,11 @@ span{
     color: purple;
 }
 .stuffs{
-    margin-bottom: 800px;
+    color: white
 }
 .things{
-    text-align: justify;
+    color: white;
+}
+.learners{
+    color: white;
 }
